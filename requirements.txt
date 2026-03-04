@@ -1,0 +1,15 @@
+Pillow
+imagehash
+geopy
+xxhash
+folium
+pandas
+orjson
+reverse_geocoder
+scipy
+numpy
+requests
+pillow-heif
+
+# --- Optional Dependencies ---
+# opencv-python  # Un-comment for Perceptual Video Hashing (Duplicate Video Detection)

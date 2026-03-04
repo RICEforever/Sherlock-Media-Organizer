@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Dependencies
+requirements.txt.tmp
+
+# Environments
+.env
+
+# PyInstaller / Build
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs
+*.log
+sherlock.log
+headless_sherlock.log
+
+# Databases and cache
+*.sqlite
+*.sqlite3
+media_metadata_cache.json
+output_ai.json
+.sherlock_pref.json
+
+# Output directories
+output files/
+discard/
+CON
+con
+
+# IDE settings
+.vscode/
+.idea/
